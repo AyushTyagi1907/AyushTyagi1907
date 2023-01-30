@@ -1,4 +1,4 @@
-[![MasterHead](https://www.lambdatest.com/resources/images/news24.gif)]
+![MasterHead](https://www.lambdatest.com/resources/images/news24.gif)
 <h1 align="center">Hi 👋, I'm Ayush Tyagi</h1>
 <h3 align="center">I am a passionate learner trying to learn new technologies and explore as much as possible. My primary coding language is Java.</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
